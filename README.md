@@ -8,7 +8,7 @@
 ### Installation Commands
 * ```apt update```
 * ```apt install git wget proot -y```
-* ```git clone https://github.com/htr-tech/ubuntu```
+* ```git clone https://github.com/hackerworldyt/ubuntu```
 * ```cd ubuntu```
 * ```chmod +x ubuntu.sh```
 * ```bash ubuntu.sh```
